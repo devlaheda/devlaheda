@@ -1,11 +1,11 @@
 ## 👋 Hi, I’m Lahcen EDAIF
 
--👀 Interests: .NET Development & Cybersecurity
--🌱 Currently Learning: Cybersecurity
--💞️ Open to Collaborate On: .NET Core microservices solutions
--🚀 Actively Seeking: Opportunities as a .NET Developer
--📫 Reach me at: [LinkedIn](https://linkedin.com/in/lahcenedaif) · [Email](mailto:dev.lah.eda@gmail.com)
--🔗 Portfolio: [devlaheda](https://devlaheda.github.io)
+- 👀 Interests: .NET Development & Cybersecurity
+- 🌱 Currently Learning: Cybersecurity
+- 💞️ Open to Collaborate On: .NET Core microservices solutions
+- 🚀 Actively Seeking: Opportunities as a .NET Developer
+- 📫 Reach me at: [LinkedIn](https://linkedin.com/in/lahcenedaif) · [Email](mailto:dev.lah.eda@gmail.com)
+- 🔗 Portfolio: [devlaheda](https://devlaheda.github.io)
 
 ### Languages and Tools:
 <p align="left">
