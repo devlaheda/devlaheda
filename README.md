@@ -4,7 +4,7 @@
 - 🌱 Currently Learning: Cybersecurity
 - 💞️ Open to Collaborate On: .NET Core microservices solutions
 - 🚀 Actively Seeking: Opportunities as a .NET Developer
-- 📫 Reach me at: [LinkedIn](https://linkedin.com/in/lahcenedaif) · [Email](mailto:dev.lah.eda@gmail.com)
+- 📫 Reach me at: [LinkedIn](https://linkedin.com/in/lahcen-edaif) · [Email](mailto:dev.lah.eda@gmail.com)
 - 🔗 Portfolio: [devlaheda](https://devlaheda.github.io)
 
 ### Languages and Tools:
