@@ -1,7 +1,12 @@
-- 👋 Hi, I’m @devlaheda
-- 👀 I’m interested in .NET And Cybersecurity
-- 🌱 I’m currently learning CyberSecurity
-- 💞️ I’m looking to collaborate on .NET Core Microservices solution
+## 👋 Hi, I’m Lahcen EDAIF
+
+-👀 Interests: .NET Development & Cybersecurity
+-🌱 Currently Learning: Cybersecurity
+-💞️ Open to Collaborate On: .NET Core microservices solutions
+-🚀 Actively Seeking: Opportunities as a .NET Developer
+-📫 Reach me at: [LinkedIn](https://linkedin.com/in/lahcenedaif) · [Email](mailto:dev.lah.eda@gmail.com)
+-🔗 Portfolio: [devlaheda](https://devlaheda.github.io)
+
 ### Languages and Tools:
 <p align="left">
   <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" alt=".NET" width="40" height="40"/></a> 
