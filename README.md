@@ -5,7 +5,7 @@
 ### Languages and Tools:
 <p align="left">
   <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" alt=".NET" width="40" height="40"/></a> 
-  <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_.NET_logo.svg" alt="ASP.NET" width="40" height="40"/></a>
+  <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt="ASP.NET" width="40" height="40"/></a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C#" width="40" height="40"/></a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="40" height="40"/></a> 
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="40" height="40"/></a> 
